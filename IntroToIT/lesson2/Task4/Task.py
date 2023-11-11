@@ -1,7 +1,7 @@
 #INTRO TO IT 2nd COURSE
 # Задача 4: Найди сумму!
 # Можешь найти сумму всех чисел в списке?
-def сумма_чисел(числа):
-    return sum(числа)
-числа = [1, 2, 3, 4, 5]
-print(f"Сумма {числа} равна {сумма_чисел(числа)}")
+def summa_chisel(chisel):
+    return sum(chisel)
+chisel = [1, 2, 3, 4, 5]
+print(f"summa {chisel} smooth {summa_chisel(chisel)}")

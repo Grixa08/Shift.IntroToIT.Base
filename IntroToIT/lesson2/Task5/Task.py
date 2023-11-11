@@ -1,7 +1,7 @@
 #INTRO TO IT 2nd COURSE
 # Задача 5: Найди максимум!
 # Определи максимальное число в списке.
-def максимальное_число(числа):
-    return max(числа)
-числа = [2, 3, 1, 7, 5]
-print(f"Максимальное из {числа} это {максимальное_число(числа)}")
+def max_number(number):
+    return max(number)
+number = [2, 3, 1, 7, 5]
+print(f"max_from {number} this {max_number(number)}")
